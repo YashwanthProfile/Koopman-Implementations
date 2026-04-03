@@ -1,0 +1,8 @@
+#VS Code
+.vscode/
+
+# venv
+.venv/
+
+# Dataset
+smd_data.csv
